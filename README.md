@@ -1,4 +1,4 @@
-🚗 Tarti-Driving School
+# 🚗 Tarti-Driving School
 
 Tarti-Driving School est un script d’auto-école complet pour FiveM (ESX) permettant aux joueurs de passer leur code ainsi que leurs différents permis de conduire .
 
@@ -18,7 +18,7 @@ Télécharger la ressource
 
 La placer dans le dossier resources
 
-Ajouter ensure tarti-drivingschool dans le server.cfg
+Ensure `tarti-drivingschool` dans `server.cfg`
 
 Redémarrer le serveur 🚀
 
